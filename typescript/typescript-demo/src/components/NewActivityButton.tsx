@@ -1,14 +1,17 @@
-import React from 'react'
+import React, { MouseEvent } from 'react'
 
 interface Props {
-  
+  clickHandler: (e: MouseEvent<HTMLButtonElement>) => void;
 }
 
-const NewActivityButton = (props: Props) => {
+const NewActivityButton = ({clickHandler}: Props) => {
   return (
-    <div>
-      
-    </div>
+    <button 
+      className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded"
+      onClick={clickHandler}
+    >
+      Generate New Activity
+    </button>
   )
 }
 

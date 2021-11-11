@@ -14,13 +14,15 @@ interface Activity {
 
 const ActivityPresenter = ({activity, accessibility, type, participants, price, key}: Activity) => {
   return (
-    <div>
-      <h3>{activity}</h3>
-      <p>{accessibility}</p>
-      <p>{type}</p>
-      <p>{participants}</p>
-      <p>{price}</p>
-      <p>{key}</p>
+    <div className="p-4 md:p-14">
+      <div className="rounded-lg border-gray-200 shadow-xl">
+        <h3>{activity}</h3>
+        <p>{accessibility}</p>
+        <p>{type}</p>
+        <p>{participants}</p>
+        <p>{price}</p>
+        <p>{key}</p>
+      </div>
     </div>
   )
 }

@@ -1,15 +1,12 @@
 import React from 'react';
 import NewActivityContainer from './components/NewActivityContainer';
-interface Props {
-  
-}
 
-const App = (props: Props) => {
+const App = () => {
   return (
-    <div>
+    <div className="w-full h-screen bg-gray-50">
       <NewActivityContainer />
     </div>
-  )
-}
+  );
+};
 
 export default App
