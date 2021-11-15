@@ -5,7 +5,8 @@ This is totally fucking random. How did you find this? Why are you still reading
 
 | Item Name | Link to resource | Completed | Completed Date | Completed notes/practice |
 |-----------|------------------|-----------|----------------|--------------------------|
-| Typescript| [The Docs, Work is changing to TS this week lol gotta learn that shiz](https://www.typescriptlang.org/docs/handbook/intro.html), [Also, this](https://basarat.gitbook.io/typescript/)| ✅ | N/A | In Progress: https://www.typescriptlang.org/docs/handbook/2/objects.html
+| Typescript| [The Docs, Work is changing to TS this week lol gotta learn that shiz](https://www.typescriptlang.org/docs/handbook/intro.html), [Also, this](https://basarat.gitbook.io/typescript/)| ✔️ | 11/22/21 | I read through the docs and did a little bit of a project (in this repo) to get used to working with it. Since I'll learn more using it at work, I wanted this cut this one short and move on. |
+| Spanish | [4 hour video](https://www.youtube.com/watch?v=qE-03EATjho) | ✔️ | 11/14/21 | Honestly just hella fun. English is the language of the trade but I always wanted to learn spanish. I never said my education was limited to CS _only_, though, it is the bulk of it :) | 
 | Redis Course | [I use it daily but don't understand it lol](https://www.youtube.com/watch?v=XCsS_NVAa1g&list=WL&index=20&ab_channel=freeCodeCamp.org) |  :white_check_mark: | N/A | N/A |
 | Data Structures Course| [I did some of this, but I want MORE KNOWLEDGE](https://www.youtube.com/watch?v=RBSGKlAvoiM&list=WL&index=11&ab_channel=freeCodeCamp.org) | ✅ | N/A | N/A
 | Algorithms Course | [I want this for work](https://www.youtube.com/watch?v=09_LlHjoEiY&list=WL&index=12&t=1s&ab_channel=freeCodeCamp.org) and [This seems helpful as a starting point too](https://towardsdatascience.com/how-to-build-a-recommendation-engine-quick-and-simple-aec8c71a823e) |  :white_check_mark: | N/A | N/A |
