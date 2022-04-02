@@ -22,7 +22,7 @@ This is totally fucking random. How did you find this? Why are you still reading
 | Figma Design System | [Phucket](https://www.youtube.com/watch?v=RYDiDpW2VkM&list=WL&index=23&ab_channel=freeCodeCamp.org) |  :white_check_mark: | N/A | N/A |
 | Calc 2 | [Interested. lol](https://www.youtube.com/watch?v=7gigNsz4Oe8&list=WL&index=17&ab_channel=freeCodeCamp.org) |  :white_check_mark: | N/A | N/A |
 | Do this whole mf | [Realistically I'll come back and break this down to what I need](https://teachyourselfcs.com/) | ✅ | N/A | N/A
-
+| Why's Poignant Guide | [Just for funsies](http://www.rubyinside.com/media/poignant-guide.pdf) | ✔️ | 03/13/22 | A beginner's book for sure, I didn't learn _too_ much, but boy is it a fun read. I still do recommend :)| 
 
 To Assign - For one reason or another, I want to get to these resources (maybe for work, maybe for fun). This board will change. I'd probably kick the math stuff off for a few of these. We'll see. 
 
