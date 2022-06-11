@@ -28,3 +28,9 @@ To Assign - For one reason or another, I want to get to these resources (maybe f
 
 - [The Rust Book](https://doc.rust-lang.org/book/)
 - [This absolute fucking masterpiece (I am a rails developer after all)](http://www.rubyinside.com/media/poignant-guide.pdf)
+
+Update 6/10/22
+Fuck the Table. Here are things I'm learning. For an ongoing project I need to quickly major up my graph theory knowledge. 
+
+- Redoing Discrete Math. I got a C+ in college. But now I want to actually learn it. https://www.udemy.com/course/discrete-math 6/10/22
+- 
